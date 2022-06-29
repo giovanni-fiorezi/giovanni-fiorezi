@@ -5,6 +5,4 @@ Hoje migrei de area e procuro fazer o mesmo, mas agora desenvolver sistemas.
 Estou estudando:
 - Java
 - Spring Framework
-- Html e Css
-- Javascript
-- SqlServer
+- MySql
