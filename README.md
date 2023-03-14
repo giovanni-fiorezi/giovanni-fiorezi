@@ -7,6 +7,7 @@ Estou estudando:
 - Java
 - Spring Framework
 - MySql
-- Html, Css e Javascript
-- ReactJS
+- MongoDB
+- React
+- Microservices
 ```
