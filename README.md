@@ -19,6 +19,8 @@ Sou um desenvolvedor focado em backend e apaixonado por arquitetura de software.
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka">
 </div>
 
+<br>
+
 📫 Contato <br>
 - Email: giovannifgiovanelli@gmail.com 
 - LinkedIn: https://www.linkedin.com/in/giovanni-fiorezi/
