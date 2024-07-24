@@ -5,7 +5,7 @@ Sou um desenvolvedor focado em backend e apaixonado por arquitetura de software.
 
 🌟 Tecnologias e Ferramentas
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
@@ -14,8 +14,8 @@ Sou um desenvolvedor focado em backend e apaixonado por arquitetura de software.
 </div>
 
 📫 Contato
-Email: giovannifgiovanelli@gmail.com
-LinkedIn: https://www.linkedin.com/in/giovanni-fiorezi/
+- Email: giovannifgiovanelli@gmail.com 
+- LinkedIn: https://www.linkedin.com/in/giovanni-fiorezi/
 
-Obrigado por visitar meu perfil! 
+Obrigado por visitar meu perfil! <br>
 Sinta-se à vontade para explorar meus repositórios e conectar-se comigo!
