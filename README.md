@@ -1,7 +1,6 @@
 👋 Olá! Eu sou Giovanni Fiorezi <br>
 
-Sempre estudei e trabalhei com mecânica industrial, apaixonado por modelagem e projeto de desenhos, peças e sistemas mecânicos em softwares de engenharia. Hoje, migrei para a área de tecnologia e procuro aplicar o mesmo entusiasmo e dedicação no desenvolvimento de sistemas.
-
+Desenvolvedor backend com mais de 2 anos de experiência no mercado de Tecnologia.
 Sou um desenvolvedor focado em backend e apaixonado por arquitetura de software. Aqui estão algumas das tecnologias e ferramentas que estou estudando e implementando no dia a dia:
 
 🌟 Tecnologias e Ferramentas <br>
